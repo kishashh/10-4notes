@@ -10,3 +10,5 @@ String aha = "aha";
 sj.add(aha);
 sj.add("boo");
 System.out.println(sj);//prints  =boo,aha*
+
+exam 1 was on wednesday no notes
